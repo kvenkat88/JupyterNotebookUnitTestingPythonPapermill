@@ -1,0 +1,26 @@
+fastapi
+dill
+tinydb
+dynaconf
+pytest
+pytest-html
+dill
+pandas
+expression-parser
+py_expression_eval
+dateparser
+jmespath
+papermill
+GitPython
+xlrd==1.2.0
+beautifulsoup4==4.9.3
+pynamodb==5.1.0
+pynamodb-mate==0.0.2
+pynamodb-attributes==0.3.1
+
+ipytest
+nbval
+
+# Have to clone and install hps-pylib library
+# https://gitlab.com/hps-92618-group/cloud-engineering/hps-pylib
+# Execute the setup.py file using - pip install -e .
